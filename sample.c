@@ -2,5 +2,8 @@
 
  int main() {
 	printf("Hello, World in Git!);
+
 	printf("hallluu shiee yangyang diss!");
+	printf("Hi shie, Sterlien ni amishyo hehe);
+
 }
