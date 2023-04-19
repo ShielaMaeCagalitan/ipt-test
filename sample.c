@@ -2,6 +2,9 @@
 
  int main() {
 
+	printf("Hello, World in Git!");
+	printf("Hi, Shiela!");
+
 	printf("Hello, World in Git!)
         printf("Hi shie, I'm Maureen");
 
@@ -9,6 +12,5 @@
 
 	printf("hallluu shiee yangyang diss!");
 	printf("Hi shie, Sterlien ni amishyo hehe);
-
-
+  
 }
