@@ -17,6 +17,7 @@
 	printf("Hi shie, Sterlien ni amishyo hehe);
 	       
 	printf("edited in github");
+        printf("edited in terminal")	
   
 
 }
